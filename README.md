@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! I'm Agustín Morantes
 
-<!--
-**agustinmorantes/agustinmorantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at ITBA and a Fullstack Developer. 
 
-Here are some ideas to get you started:
+By day, I build distributed microservices in Go and piece together complex UIs in TypeScript, while also managing the Kubernetes infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love computer graphics, game dev, and low-level programming in general.
+
+### Tech Interests & Hobbies
+* **Low-Level & Systems:** Hardware emulation, network protocols, and real-time rendering.
+* **Self-Hosting:** Running my own home lab for daily experimentation.
+* **Off-screen:** Learning Japanese (JLPT N5, currently studying for N4), reading fantasy literature, and playing videogames.
+
+### Contact
+* Email: [agustinmorantes@gmail.com](mailto:agustinmorantes@gmail.com)
+* LinkedIn: [https://linkedin.com/in/agustín-morantes-9351542aa/](https://linkedin.com/in/agustín-morantes-9351542aa/)
